@@ -1,0 +1,11 @@
+https://minikube.sigs.k8s.io/docs/start/
+
+https://kubernetes.io/docs/tasks/tools/install-kubectl-windows/
+
+https://www.tecmint.com/deploy-nginx-on-a-kubernetes-cluster/
+
+https://kubernetes.io/docs/tasks/access-application-cluster/web-ui-dashbo
+
+https://www.replex.io/blog/how-to-install-access-and-add-heapster-metrics-to-the-kubernetes-dashboard
+
+https://docs.aws.amazon.com/eks/latest/userguide/metrics-server.html
